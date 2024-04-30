@@ -1,3 +1,4 @@
 # First-Demo
-This is my Firs Repository
-Author -hamida badamdi
+This is my Firs Repository.
+<br>
+Author ~hamida badamdi
